@@ -21,8 +21,6 @@ Ce dépôt contient un fichier SVG qui illustre une vache dans un style ludique,
 
 git clone https://github.com/nam1962/Voeux-2025.git
 
-text
-
 2. Ouvrez le fichier `Moeux2025.svg` dans un navigateur ou un éditeur compatible avec SVG.
 
 3. Modifiez le code si vous souhaitez apporter des changements ou personnaliser l'illustration.
