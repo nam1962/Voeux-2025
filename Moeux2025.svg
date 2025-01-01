@@ -34,8 +34,8 @@
   <circle cx="190" cy="125" r="5" fill="#333333"/>
   
   <!-- Yeux qui louchent -->
-  <circle cx="195" cy="105" r="8" fill="#FFFFFF"/>
-  <circle cx="165" cy="105" r="8" fill="#FFFFFF"/>
+  <circle cx="195" cy="105" r="8" fill="#E8F4F8"/>
+  <circle cx="165" cy="105" r="8" fill="#E8F4F8"/>
   <circle cx="198" cy="108" r="4" fill="#333333"/>
   <circle cx="162" cy="102" r="4" fill="#333333"/>
   
