@@ -8,7 +8,7 @@
   <rect x="144" cy="160" width="8" height="30" y="200" fill="#FFFFFF"/>
   <rect x="174" cy="160" width="8" height="30" y="200" fill="#FFFFFF"/>
   
-  <!-- Corps de la vache (ovale plus mince) -->
+  <!-- Corps de la vache ovale  -->
   <ellipse cx="120" cy="160" rx="80" ry="60" fill="#FFFFFF"/>
   
   <!-- Queue -->
@@ -39,20 +39,21 @@
   <circle cx="198" cy="108" r="4" fill="#333333"/>
   <circle cx="162" cy="102" r="4" fill="#333333"/>
   
-  <!-- Oreilles -->
+ <!-- Oreilles -->
   <path d='M210,90 Q220,70,200,85' 
         fill='#FFFFFF' 
         stroke='#333333' 
         stroke-width='2'/>
         
-   <path d='M150,90 Q140,70,160,85' 
-         fill='#FFFFFF' 
-         stroke='#333333' 
-         stroke-width='2'/>
+  <path d='M150,90 Q140,70,160,85' 
+        fill='#FFFFFF' 
+        stroke='#333333' 
+        stroke-width='2'/>
   
   <!-- Texte avec caractères pleins en marron -->
   <text x="200" y="260" font-family="system-ui" font-size="24" font-weight="bold" text-anchor="middle" fill="#6B4423">
     <tspan x="200" dy="0">Veilleurs mœux pour 2025</tspan>
     <tspan x="200" dy="1.5em" font-size="14" font-weight="normal" font-style="italic">Dessiné avec un peu de code svg par Amaury et quelques IA ;)</tspan>
   </text>
+  <!-- Bonne année 2025, signé nam1962 -->
 </svg>
